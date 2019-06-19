@@ -1,0 +1,25 @@
+#imagemFundo{
+    background-size: cover;
+    background-image: url("../bg.jpg");
+    height: 540px;
+}
+
+#servicosH2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.tituloServico{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.descricaoServico{
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
+#rodape{
+    background-color: #257fc1;
+    margin-top: 3%;
+}
